@@ -5,6 +5,7 @@
 
 body {
   margin: 0;
+  background-image: linear-gradient(rgb(142, 129, 201), rgb(127, 180, 106));
 }
 
 code {
