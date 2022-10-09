@@ -69,5 +69,8 @@
   },
   "devDependencies": {
     "husky": "^7.0.2"
+  },
+  "dependencies": {
+    "@cowprotocol/cow-sdk": "^1.0.0-RC.7"
   }
 }

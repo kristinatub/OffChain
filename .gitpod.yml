@@ -20,7 +20,7 @@ ports:
     visibility: public
 github:
   prebuilds:
-    pullRequestsFromForks: true
+    pullRequestsfomForks: true
     addComment: true
 vscode:
   extensions:
