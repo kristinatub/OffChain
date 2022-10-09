@@ -45,7 +45,17 @@ function Home({ yourLocalBalance, readContracts }) {
       <div style={{ margin: 32 }}>
         This is where you will authorize how much money to switch into Fiat
       </div>
-      <button onClick={doStuff}>SDK</button>
+      <div>
+      <input
+            type="text" defaultValue="Enter From Coin"
+         />
+      </div>
+      <br></br><br/>
+         <input
+            type="text" defaultValue="Enter Amount Here"
+         />
+         <br /> <br />
+      <button onClick={doStuff}>Exchange</button>
     </div>
     
   );
